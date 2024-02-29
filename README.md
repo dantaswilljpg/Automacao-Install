@@ -1,4 +1,4 @@
-
+# Script shell
 Script de Instalação e Configuração do Docker e MySQL
 Este é um script em bash que automatiza a instalação e configuração do Docker, junto com o MySQL, para uso no "Sistema de monitoramento Magister".
 
